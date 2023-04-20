@@ -1,7 +1,6 @@
 {
   "origins": [
     "https://blog.sparrowlabs.co",
-    "https://blog.sparrowlabs.dev",
-    "http://localhost:3003"
+    "https://blog.sparrowlabs.dev"
   ]
 }
